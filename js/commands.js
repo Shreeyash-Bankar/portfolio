@@ -10,7 +10,7 @@ aboutme = [
   "<br>",
   "<span class='underline'>Hey, I'm shreeyash!👋</span>",
   "<br>",
-  "<li>🔭 I’m currently a 3rd year undergrad, pursuing BCs.</li>",
+  "<li>🔭 I’m currently a 3rd year undergrad, pursuing BCA.</li>",
   "<li>🌱 My fields of intetest are</li>",
   `<pre class="whitespace-pre-wrap">
         - Fullstack Development
