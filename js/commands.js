@@ -26,6 +26,8 @@ aboutme = [
   `<li><pre class="whitespace-pre-wrap">👨‍💻 Check out my github profile to view my projects
    *Use the github command to take a look at my GitHub profile.`,
   `<li>📫 Contact me at <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDDPFDTbvhjVpvjpNxLZPjFdzKFcmqZGNHclhwtJKhdhrBqGNVGBzlPvFfwxvksdTcqHXs">shreeyashbanker17@gmail.com</a>`,
+  `<li>🎓 My Qualifications "<br>"  <a href="https://github.com/Shreeyash-Bankar/portfolio/blob/main/assets/hsc.pdf">HSC</a>`, "<br>",
+                                    `<a href="https://github.com/Shreeyash-Bankar/portfolio/blob/main/assets/ssc.pdf">SSC</a>`, 
   "<br>",
 ];
 
@@ -53,9 +55,42 @@ social = [
 ];
 
 projects = [
-  "<br>",
-  `still working on them :D`,
-  "<br>",
+    "<br>",
+    `<a href="https://github.com/Shreeyash-Bankar/google-clone" target="blank"><span class='underline'>Google Search Clone</span>`,
+    "<br>",
+    `<pre class="indent-8 whitespace-pre-wrap">A functional replica of Google's search page, you can use it for searches. Styled with Tailwind CSS to Rapidly build and look as close as possible to current google search page, the search results are pulled using Googles Programmable Search Engine and it was build using Next.js the react framework.
+  
+  Project is live here <a href="https://google-clone-p8mn37r8a-cosmicwanderer7.vercel.app/" target="blank">https://google-clone-cosmicwanderer7.vercel.app/</a>
+  *Please do not spam searches.
+  
+  Built With
+  
+      *Next.js
+      *Tailwind CSS
+      *Programmable Search Engine
+      *Yarn
+  `,
+  
+    "<br>",
+  
+    `<a href="https://github.com/Shreeyash-Bankar/contactform" target="blank"><span class='underline'>Contactform With Google Sheets as Database</span>`,
+    "<br>",
+    `<pre class="indent-8 whitespace-pre-wrap">This contact form collects information from the user and saves it to Google Sheets using the Google cloud APIs.
+  After filling out the form, the user will receive a personalized email with a link to the form that says their response has been recorded. 
+  It was built using Next.JS, the React framework and styled with Tailwind CSS.
+  
+  Project is live here <a href="https://contactform-psi.vercel.app/" target="blank">https://contactform-psi.vercel.app/</a>
+  
+  Built With
+  
+      *Next.js
+      *Tailwind CSS
+      *Google Sheets api
+      *IFTTT
+      *Yarn
+  `,
+  
+    "<br>",
 ];
 
 help = [
