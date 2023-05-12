@@ -26,7 +26,7 @@ aboutme = [
   `<li><pre class="whitespace-pre-wrap">👨‍💻 Check out my github profile to view my projects
    *Use the github command to take a look at my GitHub profile.`,
   `<li>📫 Contact me at <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDDPFDTbvhjVpvjpNxLZPjFdzKFcmqZGNHclhwtJKhdhrBqGNVGBzlPvFfwxvksdTcqHXs">shreeyashbanker17@gmail.com</a>`,
-  `<li>🎓 My Qualifications "<br>"  <a href="https://github.com/Shreeyash-Bankar/portfolio/blob/main/assets/hsc.pdf">HSC</a>`, "<br>",
+  `<li>🎓 My Qualifications <br>  <a href="https://github.com/Shreeyash-Bankar/portfolio/blob/main/assets/hsc.pdf">HSC</a>`, 
                                     `<a href="https://github.com/Shreeyash-Bankar/portfolio/blob/main/assets/ssc.pdf">SSC</a>`, 
   "<br>",
 ];
